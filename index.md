@@ -6,3 +6,15 @@
  
   
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+<h1> Now it's time to add code
+ 
+```c
+int main() {
+uint8_t flag = 0;
+for (uint8_t i = 0; i< 10; i++)
+flag++;
+return 0;
+}
+```
+
